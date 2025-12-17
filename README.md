@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Web Tech - Modern Fullstack Website
 
 A premium, high-performance website built with **React** (Frontend) and **Django** (Backend), featuring advanced 3D animations, glassmorphism UI, and a robust REST API.
@@ -111,3 +110,9 @@ This project is licensed under the MIT License.
 =======
 # Bloging-site
 >>>>>>> 8006d917e6cdfebaf6c63d6149b2a6f3dcf4bc03
+>>>>>>>
+<img width="1922" height="5931" alt="image1" src="https://github.com/user-attachments/assets/beadb02d-48a6-4826-b5e6-be3b92898e94" />
+
+<img width="1922" height="5931" alt="image1" src="https://github.com/user-attachments/assets/24d5d988-82f7-4b3f-8c44-c3b7dd630c34" />
+
+
